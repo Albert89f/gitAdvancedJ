@@ -2,6 +2,6 @@ public class MemberC {
 
 
     public static void cheer(String input) {
-        System.out.println("hunglish");
+        System.out.println("Cheer for the " + input);
     }
 }
