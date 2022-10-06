@@ -1,6 +1,7 @@
 public class Age {
     int age = 29;
-    public void count() {
-        System.out.println(11);
+  
+    public void count(int input) {
+        System.out.println("Counting the countless " + input);
     }
 }
