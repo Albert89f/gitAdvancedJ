@@ -1,5 +1,5 @@
 public class Future {
-    void future() {
-        System.out.println("metal snake");
+    void future(String first, String second) {
+        System.out.println(first + " " + second);
     }
 }
