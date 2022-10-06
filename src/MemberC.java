@@ -1,6 +1,6 @@
 public class MemberC {
 
-    public static void cheer() {
-        System.out.println("c-team");
+    public static void cheer(String input) {
+        System.out.println(input);
     }
 }
