@@ -1,7 +1,7 @@
 public class MemberC {
 
 
-    public static void cheer(String input) {
-        System.out.println("hunglish");
+    public static void cheer(String input, String otherInput) {
+        System.out.println(input + " " + otherInput);
     }
 }
